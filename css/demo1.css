@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+p {
+    color: blue;
+    font-size: 40px;
+    font-family: ans-serifs;
+    font-weight: bold;
+    font-weight: 400;
+    text-decoration: none;
+    text-transform: lowercase;
+    background-color: pink;
+    width:500px;
+}

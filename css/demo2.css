@@ -1,0 +1,26 @@
+*html{
+    margin: 0;
+}
+.box {
+    height: 10px;
+    padding-top:50px ;
+    padding-left: 20px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 20px;
+}
+.box-1 h1 {
+    padding-left:100px;
+}
+.box-1 p {
+    padding-left: 100px;
+}
+hr{
+    padding left: 100px;
+}
+

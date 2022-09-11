@@ -1,5 +1,7 @@
 *html{
     margin: 0;
+    position: fixed;
+    top: 50000px
 }
 .box {
     height: 10px;
@@ -22,5 +24,17 @@ h2{
 }
 hr{
     padding left: 100px;
+}
+input {
+    background-color: magenta;
+}
+input[type=tex]{
+    background-color: #e7460e;
+}
+input[name=email]{
+    background-color: bisque;
+}
+input [type=numbur] [name=age] {
+    background-color: aquamarine;
 }
 
